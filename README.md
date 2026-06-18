@@ -30,6 +30,9 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 
 ---
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://linkedin.com/in/bryanmartinezn/)
+
+
 ### Mis Estadísticas de GitHub
 
 
