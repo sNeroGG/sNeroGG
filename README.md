@@ -54,3 +54,5 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sNeroGG)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sNeroGG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
