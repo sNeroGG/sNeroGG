@@ -4,6 +4,8 @@
 Me llamo Bryan Martinez, mas conocido como Nero!
 Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de software y diseñador gráfico (Por Hobbie jsjs). Me apasiona crear soluciones web eficientes y la optimización de sistemas.
 
+[![Mi linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanmartinezn/)
+
 ### Tecnologías y Herramientas
 #### Desarrollo Backend & Frameworks
 - **Python:** Especializado en frameworks rápidos como FastAPI, Flask y desarrollo/administración en entornos Odoo.
@@ -43,9 +45,6 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 <a href="https://twitter.com/snerodesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snerodesigns" height="30" width="40" /></a>
 <a href="https://www.behance.net/sneroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sneroo" height="30" width="40" /></a>
 </p>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanmartinezn/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
 
 <p align="center">
