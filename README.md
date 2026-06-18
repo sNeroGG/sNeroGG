@@ -44,7 +44,6 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 
 <h3 align="left">Portafolio de Diseños:</h3>
 <p align="left">
-<a href="https://twitter.com/snerodesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snerodesigns" height="30" width="40" /></a>
 <a href="https://www.behance.net/sneroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sneroo" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
