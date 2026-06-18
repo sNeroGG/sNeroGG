@@ -56,9 +56,3 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 <a href="https://www.behance.net/sneroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sneroo" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sNeroGG&theme=onedark" alt="Mis Trofeos de GitHub" />
-  </a>
-</p>
