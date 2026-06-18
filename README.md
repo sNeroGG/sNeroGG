@@ -35,9 +35,12 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 
 ### Mis Estadísticas de GitHub
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snerogg&show_icons=true&locale=en" alt="snerogg" /></p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=sNeroGG&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=sNeroGG&show_icons=true&theme=radical)" alt="Estadísticas de GitHub" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=sNeroGG&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=sNeroGG&show_icons=true&theme=radical)" alt="Estadísticas de GitHub" /></p>
+
+<p align="center">
   <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sNeroGG&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=sNeroGG&layout=compact&theme=radical)" alt="Lenguajes más usados" />
 </p>
 
@@ -53,5 +56,4 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snerogg&show_icons=true&locale=en" alt="snerogg" /></p>
 
