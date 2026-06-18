@@ -5,7 +5,7 @@ Me llamo Bryan Martinez, mas conocido como Nero!
 Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de software y diseñador gráfico (Por Hobbie jsjs). Me apasiona crear soluciones web eficientes y la optimización de sistemas.
 
 [![Mi linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanmartinezn/)
-[![Twitter/X](https://img.shields.io/badge/x-0F0F0F?style=for-the-badge&logo=x&logoColor=white)](https://linkedin.com/in/bryanmartinezn/)
+[![Twitter/X](https://img.shields.io/badge/x-0F0F0F?style=for-the-badge&logo=Twitter/X&logoColor=white)](https://twitter.com/snerodesigns)
 
 
 ### Tecnologías y Herramientas
