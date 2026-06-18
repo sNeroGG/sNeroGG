@@ -4,9 +4,6 @@
 Me llamo Bryan Martinez, mas conocido como Nero!
 Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de software y diseñador gráfico (Por Hobbie jsjs). Me apasiona crear soluciones web eficientes y la optimización de sistemas.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snerogg" alt="snerogg" /></a> </p>
-
-
 ### Tecnologías y Herramientas
 #### Desarrollo Backend & Frameworks
 - **Python:** Especializado en frameworks rápidos como FastAPI, Flask y desarrollo/administración en entornos Odoo.
@@ -56,4 +53,5 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?sNeroGG=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
