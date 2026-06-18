@@ -1,5 +1,5 @@
 
-# ¡Hi There! I'm Nero
+# ¡Hi! I'm Nero
 
 Me llamo Bryan Martinez, mas conocido como Nero!
 Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de software y diseñador gráfico (Por Hobbie jsjs). Me apasiona crear soluciones web eficientes y la optimización de sistemas.
