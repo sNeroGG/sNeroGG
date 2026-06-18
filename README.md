@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
 # ¡Hola! Soy Nero
 
 Me llamo Bryan Martinez, mas conocido como Nero!
