@@ -52,3 +52,6 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snerogg&show_icons=true&locale=en" alt="snerogg" /></p>
+
