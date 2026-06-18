@@ -1,11 +1,12 @@
 
-<h3 align="center">¡Hola! Soy Nero</h3>
+#¡Hola! Soy Nero
 
 Me llamo Bryan Martinez, mas conocido como Nero!
 Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de software y diseñador gráfico (Por Hobbie jsjs). Me apasiona crear soluciones web eficientes y la optimización de sistemas.
 
 [![Mi linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryanmartinezn/)
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-0F0F0F?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sNero_Designs)
+
 ### Tecnologías y Herramientas
 #### Desarrollo Backend & Frameworks
 - **Python:** Especializado en frameworks rápidos como FastAPI, Flask y desarrollo/administración en entornos Odoo.
