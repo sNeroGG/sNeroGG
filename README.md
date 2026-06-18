@@ -1,5 +1,5 @@
 
-### ¡Hola! Soy Nero
+### ¡Hi There! I'm Nero
 
 Me llamo Bryan Martinez, mas conocido como Nero!
 Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de software y diseñador gráfico (Por Hobbie jsjs). Me apasiona crear soluciones web eficientes y la optimización de sistemas.
@@ -30,7 +30,7 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 
 ---
 
-### Mis Estadísticas de GitHub
+### My GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sNeroGG&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
@@ -51,7 +51,7 @@ Soy estudiante de Ingeniería en Ciencias de la Computación, desarrollador de s
 <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> 
 
 
-<h3 align="left">Portafolio de Diseños:</h3>
+<h3 align="left">Design Portfolio:</h3>
 <p align="left">
 <a href="https://www.behance.net/sneroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sneroo" height="30" width="40" /></a>
 </p>
