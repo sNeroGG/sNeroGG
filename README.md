@@ -58,4 +58,6 @@ Me apasiona crear soluciones web eficientes y la optimización de sistemas.
 <p align="left">
 <a href="https://www.behance.net/sneroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sneroo" height="30" width="40" /></a>
 </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snerogg&label=Profile%20views&color=0e75b6&style=flat" alt="snerogg" /> </p>
